@@ -2,8 +2,6 @@
 
 > **Projeto de análise de dados socioespaciais sobre a distribuição da renda por bairro em Piracicaba (SP), com foco na transformação do mapa socioeconômico da cidade e na expansão de áreas residenciais de alto padrão.**
 
-![Capa](docs/images/01.png)
-
 ## 1. Sobre o projeto
 
 Este projeto investiga como a distribuição territorial da renda em Piracicaba mudou entre os **Censos Demográficos de 2000, 2010 e 2022**.
